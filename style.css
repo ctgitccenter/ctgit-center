@@ -4,3 +4,16 @@ body{
 .colorname{
     color: chocolate;
 }
+.half{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding: 2%;
+    text text-align: text-justify;
+}
+.half img{
+    width: 100%;
+}
+h1{
+    font-size: 50px;
+}
